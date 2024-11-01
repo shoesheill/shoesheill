@@ -1,5 +1,5 @@
 # 💫 About Me:
-🛠️ Currently working on: Scalable system architecture and high-performance solutions.<br><br>🧑‍🤝‍🧑 Looking to collaborate on: .NET projects and multi-stack optimizations.<br><br>🤝 Need help with: Advanced CI/CD pipelines and deployment strategies.<br><br>🌱 Currently learning: Blazor Hybrid & MAUI<br><br>💬 Ask me about: System architecture, .NET Core, and team leadership.<br><br>⚡ Fun fact: Judged Hackfest ASCOL 2024 and gave a film demo at Bored Nepal.
+🛠️ Currently working on: Scalable system architecture and high-performance solutions.<br><br>🧑‍🤝‍🧑 Looking to collaborate on: .NET projects and multi-stack optimizations.<br><br>🤝 Need help with: Advanced CI/CD pipelines and deployment strategies.<br><br>🌱 Currently learning: Blazor Hybrid & MAUI<br><br>💬 Ask me about: System architecture, .NET Core, and team leadership.<br><br>⚡ Fun fact: Judged Hackfest ASCOL 2024
 
 
 ## 🌐 Socials:
